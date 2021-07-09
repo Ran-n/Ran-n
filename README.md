@@ -1,4 +1,12 @@
 # Ran-n
+## Lista xFCR
+- Rematar [conexións](https://github.com/Ran-n/conexions) como paquete pip, mirar por que setup2 non funca e tentalo subir ós servers de pip
+- Facer [uteis](https://github.com/Ran-n/uteis) como paquete pip e subilo ós servers pip
+- Engadir etiquetas a [uteis](https://github.com/Ran-n/uteis)
+- Continuar [chollogram](https://github.com/Ran-n/chollogram)
+- Continuar [caixab](https://github.com/Ran-n/caixab)
+- Empaquetar [base36](https://github.com/Ran-n/base36) e [khronos](https://github.com/Ran-n/khronos)
+
 ## Doazóns
 🙇🙇‍♀
 | Moeda     | Dirección                                                                                         |
