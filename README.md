@@ -1,6 +1,6 @@
 # Ran-n
 
-[Galego](doc/readme_idiomas/readme_gal.md#Índice) | [English](doc/readme_idiomas/readme_en.md#Index) | [Esperanto](doc/readme_idiomas/readme_eo.md#Indekso) | [Castellano](doc/readme_idiomas/readme_cas.md#Índice.)
+[Galego](doc/readme_idiomas/readme_gz.md#Índice) | [English](doc/readme_idiomas/readme_en.md#Index) | [Esperanto](doc/readme_idiomas/readme_eo.md#Indekso) | [Castellano](doc/readme_idiomas/readme_cas.md#Índice.)
 
 <!---
 ## Orixinal
