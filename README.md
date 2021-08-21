@@ -9,6 +9,7 @@
 ## Index
 - [Account Stats](README.md#stats)
 - [Pinned Repos](README.md#pinned)
+- [Code of conduct](doc/coc/coc_en.md)
 - [Donations](README.md#donations)
 
 ## Stats
