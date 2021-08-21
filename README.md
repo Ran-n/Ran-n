@@ -1,4 +1,4 @@
-# Ran-n
+# Ran-n <img src="media/emojis/saúdo.gif" width="28" alt="benvido" title="Benvido">
 
 [<img src="media/bandeiras/gz-0.svg" width="25" alt="galego" title="Galego">](doc/readme_idiomas/readme_gz.md#Índice)
 [<img src="media/bandeiras/en-0.svg" width="27" alt="english" title="English">](doc/readme_idiomas/readme_en.md#Index)
