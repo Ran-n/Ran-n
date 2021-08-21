@@ -1,4 +1,5 @@
 # Ran-n
+[Código de conducta](codigo_conducta.md)
 ## Lista xFCR
 - Arranxar [uteis](https://github.com/Ran-n/uteis) e [conexións](https://github.com/Ran-n/conexions)
 - Empaquetar [khronos](https://github.com/Ran-n/khronos)
