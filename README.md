@@ -8,11 +8,6 @@
 <img align="right">
 ---
 
-## Take a look at these!
-- [Donations](README.md#donations)
-- [Code of conduct](https://github.com/Ran-n/doc/blob/main/coc/coc_en.md)
-
-## Stats
 <a href="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&include_all_commits=true">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&include_all_commits=true" alt="stats" title="Stats"/>
 </a>
@@ -20,7 +15,11 @@
   <img align="center" width="334" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ran-n&theme=dark&layout=compact" alt="language stats" title="Language Stats"/>
 </a>
 
-## Pinned
+## Take a look at these!
+- [Donations](https://github.com/Ran-n/doc/blob/main/doazóns.md)
+- [Code of conduct](https://github.com/Ran-n/doc/blob/main/coc/coc_en.md)
+
+## Pinned Repos
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=ledo&theme=dark">
   <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=ledo&theme=dark" alt="ledo" title="Ledo"/>
 </a>
