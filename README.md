@@ -1,15 +1,15 @@
 # Ran-n <img src="media/emojis/saúdo.gif" width="28" alt="benvido" title="Benvido">
 
-[<img src="media/bandeiras/gz-0.svg" width="25" alt="galego" title="Galego">](doc/readme_idiomas/readme_gz.md#Índice)
-[<img src="media/bandeiras/en-0.svg" width="27" alt="english" title="English">](doc/readme_idiomas/readme_en.md#Index)
-[<img src="media/bandeiras/eo-0.svg" width="25" alt="esperanto" title="Esperanto">](doc/readme_idiomas/readme_eo.md#Indekso)
-[<img src="media/bandeiras/cas-0.svg" width="28" alt="castellano" title="Castellano">](doc/readme_idiomas/readme_cas.md#Índice)
+[<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/gz-0.svg" width="25" alt="galego" title="Galego">](doc/readme_idiomas/readme_gz.md#Índice)
+[<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/en-0.svg" width="27" alt="english" title="English">](doc/readme_idiomas/readme_en.md#Index)
+[<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/eo-0.svg" width="25" alt="esperanto" title="Esperanto">](doc/readme_idiomas/readme_eo.md#Indekso)
+[<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/cas-0.svg" width="28" alt="castellano" title="Castellano">](doc/readme_idiomas/readme_cas.md#Índice)
 ---
 
 ## Index
 - [Account Stats](README.md#stats)
 - [Pinned Repos](README.md#pinned)
-- [Code of conduct](doc/coc/coc_en.md)
+- [Code of conduct](https://github.com/Ran-n/doc/blob/main/coc/coc_en.md)
 - [Donations](README.md#donations)
 
 ## Stats
