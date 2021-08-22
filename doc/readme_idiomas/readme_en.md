@@ -1,4 +1,4 @@
-# Ran# <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/en-0.svg" width="27" alt="english" title="English">
+# Ran# [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/en-0.svg" width="27" alt="english" title="English">](readme_en.md)
 
 [<img align="left" src="../../media/emojis/casa.svg" width="20" alt="inicio" title="Inicio">](../../README.md)
 
