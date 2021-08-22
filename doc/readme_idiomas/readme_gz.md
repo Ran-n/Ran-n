@@ -3,11 +3,10 @@
 
 ## Índice
 
-- [Account Stats](README.md#estatísticas)
-- [Pinned Repos](README.md#destacado)
-- [Código de conducta](doc/coc/coc_gz.md)
-- [Código de conducta](doc/doazóns.md)
-- [Doazóns](doazons.md)
+- [Account Stats](readme_gz.md#estatísticas)
+- [Pinned Repos](readme_gz.md#destacado)
+- [Código de conducta](../coc/.md)
+- [Doazóns](../doazóns.md)
 
 ## Estatísticas
 <a href="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&locale=pt-PT&include_all_commits=true">
