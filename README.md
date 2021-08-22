@@ -5,8 +5,8 @@
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/eo-0.svg" width="25" alt="esperanto" title="Esperanto">](doc/readme_idiomas/readme_eo.md#Indekso)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/cas-0.svg" width="28" alt="castellano" title="Castellano">](doc/readme_idiomas/readme_cas.md#Índice)
 <img align="center">
-
 ---
+
 <!-- <img src="https://img.shields.io/badge/Ran-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=stackoverflow" alt="StackOverflow" title="StackOverflow"> <img src="https://img.shields.io/badge/PyPI-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=pypi" alt="PyPI" title="PyPI"> <img src="https://img.shields.io/badge/GitHub-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=github" alt="GitHub" title="GitHub"> <img src="https://img.shields.io/badge/GitLab-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=gitlab" alt="GitLab" title="GitLab">
 -->
 
