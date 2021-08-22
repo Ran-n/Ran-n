@@ -1,4 +1,4 @@
-# Ran# <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/gz-0.svg" width="25" alt="galego" title="Galego">
+# Ran# [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/gz-0.svg" width="25" alt="galego" title="Galego">](readme_gz.md)
 
 [<img align="left" src="../../media/emojis/casa.svg" width="20" alt="inicio" title="Inicio">](../../README.md)
 
