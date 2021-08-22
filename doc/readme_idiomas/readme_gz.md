@@ -1,16 +1,18 @@
-# Ran#
+# Ran# <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/gz-0.svg" width="25" alt="galego" title="Galego">
+
 [<img align="left" src="../../media/emojis/casa.svg" width="20" alt="inicio" title="Inicio">](../../README.md)
-[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/gz-0.svg" width="25" alt="galego" title="Galego">](readme_gz.md)
+
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/en-0.svg" width="27" alt="english" title="English">](readme_en.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/eo-0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/cas-0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
 <img align="center">
 <img align="right">
 ---
-## Índice
 
-- [Account Stats](readme_gz.md#estatísticas)
-- [Pinned Repos](readme_gz.md#destacado)
+## Índice
+- [Estatísticas da conta](readme_gz.md#estatísticas)
+- [Repos destacados](readme_gz.md#destacado)
+- [Lista xFCR](readme_gz.md#xFCR)
 - [Código de conducta](https://github.com/Ran-n/doc/blob/main/coc/coc_gz.md)
 - [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 
@@ -30,7 +32,7 @@
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=aleatorio&theme=dark" alt="aleatorio" title="Aleatorio"/>
 </a>
 
-## Lista xFCR
+## xFCR
 - Arranxar [uteis](https://github.com/Ran-n/uteis) e [conexións](https://github.com/Ran-n/conexions)
 - Empaquetar [khronos](https://github.com/Ran-n/khronos)
 - Empaquetar? [base36](https://github.com/Ran-n/base36)
