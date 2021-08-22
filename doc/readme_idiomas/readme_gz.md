@@ -8,21 +8,18 @@
 <img align="center">
 <img align="right">
 ---
-
-## Índice
-- [Estatísticas da conta](readme_gz.md#estatísticas)
-- [Repos destacados](readme_gz.md#destacado)
-- [Lista xFCR](readme_gz.md#xFCR)
-- [Código de conducta](https://github.com/Ran-n/doc/blob/main/coc/coc_gz.md)
-- [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
-
-## Estatísticas
 <a href="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&locale=pt-PT&include_all_commits=true">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&locale=pt-PT&include_all_commits=true" alt="estatísticas" title="Estatísticas"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ran-n&theme=dark&locale=pt-PT&layout=compact&custom_title=Idiomas%20m%C3%A1is%20usados">
   <img align="center" width="334" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ran-n&theme=dark&locale=pt-PT&layout=compact&custom_title=Idiomas%20m%C3%A1is%20usados" alt="estatísticas das linguas" title="Estatísticas das linguas"/>
 </a>
+
+## Índice
+- [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
+- [Repos destacados](readme_gz.md#destacado)
+- [Lista xFCR](readme_gz.md#xFCR)
+- [Código de conducta](https://github.com/Ran-n/doc/blob/main/coc/coc_gz.md)
 
 ## Destacado
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=ledo&theme=dark">
