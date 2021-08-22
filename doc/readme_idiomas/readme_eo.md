@@ -1,4 +1,4 @@
-# Ran# <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/eo-0.svg" width="25" alt="esperanto" title="Esperanto">
+# Ran# [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/eo-0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
 
 [<img align="left" src="../../media/emojis/casa.svg" width="20" alt="inicio" title="Inicio">](../../README.md)
 
