@@ -8,11 +8,9 @@
 <img align="right">
 ---
 
-## Index
-- [Account Stats](README.md#stats)
-- [Pinned Repos](README.md#pinned)
-- [Code of conduct](https://github.com/Ran-n/doc/blob/main/coc/coc_en.md)
+## Take a look at these!
 - [Donations](README.md#donations)
+- [Code of conduct](https://github.com/Ran-n/doc/blob/main/coc/coc_en.md)
 
 ## Stats
 <a href="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&include_all_commits=true">
@@ -30,8 +28,7 @@
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=aleatorio&theme=dark" alt="aleatorio" title="Aleatorio"/>
 </a>
 
-## Donations
-
+## Donations 🙇🙇‍♀
 **Bitcoin** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin-0.svg" width="20" alt="bitcoin logo" title="Bitcoin">  
 bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6
 
