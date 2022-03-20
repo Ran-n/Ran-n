@@ -45,7 +45,7 @@
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=aleatorio&theme=dark" alt="aleatorio" title="Aleatorio"/>
 </a>
 
-## Donations 🙇🙇‍♀
+## [Donations 🙇🙇](https://github.com/Ran-n/doc/blob/main/doaz%C3%B3ns.md)
 **Bitcoin** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin_0.svg" width="20" alt="bitcoin logo" title="Bitcoin">  
 bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6
 
