@@ -11,13 +11,4 @@
 
 ## Index
 - [Donations](https://github.com/Ran-n/doc/blob/main/doaz%C3%B3ns.md)
-- [Pinned Repos](readme_en.md#pinned)
 - [Code of conduct](https://github.com/Ran-n/doc/blob/main/coc/coc_en.md)
-
-## Pinned
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=ledo&theme=dark">
-  <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=ledo&theme=dark" alt="ledo" title="Ledo"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=aleatorio&theme=dark">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=aleatorio&theme=dark" alt="aleatorio" title="Aleatorio"/>
-</a>

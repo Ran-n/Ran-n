@@ -11,17 +11,8 @@
 
 ## Índice
 - [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
-- [Repos destacados](readme_gz.md#destacado)
 - [Lista xFCR](readme_gz.md#xFCR)
 - [Código de conducta](https://github.com/Ran-n/doc/blob/main/coc/coc_gz.md)
-
-## Destacado
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=ledo&theme=dark">
-  <img align="center" width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=ledo&theme=dark" alt="ledo" title="Ledo"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=aleatorio&theme=dark">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ran-n&repo=aleatorio&theme=dark" alt="aleatorio" title="Aleatorio"/>
-</a>
 
 ## xFCR
 - Arranxar [uteis](https://github.com/Ran-n/uteis) e [conexións](https://github.com/Ran-n/conexions)
