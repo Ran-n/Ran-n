@@ -7,10 +7,8 @@
 <img align="center">  
 ---  
 
-<!-- <img src="https://img.shields.io/badge/Ran-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=stackoverflow" alt="StackOverflow" title="StackOverflow"> <img src="https://img.shields.io/badge/PyPI-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=pypi" alt="PyPI" title="PyPI"> <img src="https://img.shields.io/badge/GitHub-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=github" alt="GitHub" title="GitHub"> <img src="https://img.shields.io/badge/GitLab-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=gitlab" alt="GitLab" title="GitLab">
--->
 
-<img src="https://img.shields.io/badge/Windows-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=windows" alt="Windows" title="Windows"> <img src="https://img.shields.io/badge/Linux-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=linux" alt="Linux" title="Linux"> <img src="https://img.shields.io/badge/ArchLinux-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=archlinux" alt="ArchLinux" title="ArchLinux">  <!--<img src="https://img.shields.io/badge/Gentoo-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=gentoo" alt="Gentoo" title="Gentoo">--> <img src="https://img.shields.io/badge/Ubuntu-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=ubuntu" alt="Ubuntu" title="Ubuntu"> <img src="https://img.shields.io/badge/Debian-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=debian" alt="Debian" title="Debian">
+<img src="https://img.shields.io/badge/Windows-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=windows" alt="Windows" title="Windows"> <img src="https://img.shields.io/badge/Linux-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=linux" alt="Linux" title="Linux"> <img src="https://img.shields.io/badge/ArchLinux-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=archlinux" alt="ArchLinux" title="ArchLinux"> <img src="https://img.shields.io/badge/Ubuntu-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=ubuntu" alt="Ubuntu" title="Ubuntu"> <img src="https://img.shields.io/badge/Debian-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=debian" alt="Debian" title="Debian">
 
 <img src="https://img.shields.io/badge/zsh-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=gnubash" alt="zsh" title="zsh"> <img src="https://img.shields.io/badge/bash-blue?style=flat&logoColor=white&labelColor=606060&color=2e7fc9&logo=gnubash" alt="bash" title="bash">
 
@@ -26,15 +24,7 @@
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&include_all_commits=true">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ran-n&theme=dark&show_icons=true&include_all_commits=true" alt="stats" title="Stats"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ran-n&theme=dark&layout=compact">
-  <img align="center" width="334" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ran-n&theme=dark&layout=compact" alt="language stats" title="Language Stats"/>
-</a>
-
 ## Take a look at these!
-- [Donations](https://github.com/Ran-n/doc/blob/main/doazóns.md)
 - [Code of conduct](https://github.com/Ran-n/doc/blob/main/coc/coc_en.md)
 
 ## Pinned Repos
@@ -56,15 +46,3 @@ bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6
 WW2RheTNrq8goAi42Dz5AKUj1qLSaTSSgiH7sHR2qRqojg238EXP3MM3xuUgswriET7UrpkEoYaCkecBhnU49oxM1dZyYoSmm
 
 ---
-
-<!---
-## Orixinal
-- 👋 Hi, I’m @Ran-n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Ran-n/Ran-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
