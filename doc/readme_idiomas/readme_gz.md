@@ -1,18 +1,20 @@
-# Ran# [<img src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/gz_0.svg" width="25" alt="galego" title="Galego">](readme_gz.md)
+# Ran# [<img src="https://raw.githubusercontent.com/Ran-n/media/main/languages/gz_0.svg" width="25" alt="galego" title="Galego">](readme_gz.md)
 
-[<img align="left" src="https://github.com/Ran-n/media/blob/main/emojis/casa_0.svg" width="20" alt="inicio" title="Inicio">](../../README.md)
+[<img src="https://raw.githubusercontent.com/Ran-n/media/main/emojis/house_0.svg" width="20" alt="inicio" title="Inicio">](../../README.md)
 
-[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/en_0.svg" width="27" alt="english" title="English">](readme_en.md)
-[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
-[<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/linguas/cas_0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
-<img align="center">
-<img align="right">
+[<img src="https://raw.githubusercontent.com/Ran-n/media/main/languages/en_0.svg" width="27" alt="english" title="English">](readme_en.md)
+[<img src="https://raw.githubusercontent.com/Ran-n/media/main/languages/eo_0.svg" width="25" alt="esperanto" title="Esperanto">](readme_eo.md)
+[<img src="https://raw.githubusercontent.com/Ran-n/media/main/languages/cas_0.svg" width="28" alt="castellano" title="Castellano">](readme_cas.md)
+
 ---
 
 ## Índice
-- [Doazóns](https://github.com/Ran-n/doc/blob/main/doazóns.md)
+- [Doazóns](https://github.com/Ran-n/doc/blob/main/donations.md)
+- [Licenza](../../LICENSE)
+- [Contribuír](../../CONTRIBUTING.md)
+- [Rexistro de cambios](../../CHANGELOG.md)
+- [Colaboradores](../../CONTRIBUTORS)
 - [Lista xFCR](readme_gz.md#xFCR)
-- [Código de conducta](https://github.com/Ran-n/doc/blob/main/coc/coc_gz.md)
 
 ## xFCR
 - Arranxar [uteis](https://github.com/Ran-n/uteis) e [conexións](https://github.com/Ran-n/conexions)
